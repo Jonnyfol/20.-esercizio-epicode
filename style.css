@@ -1,0 +1,8 @@
+h1{
+    color: red;
+}
+
+img {
+    max-width: 100%; /* Imposta la larghezza massima dell'immagine al 100% del contenitore */
+    height: auto; /* Imposta l'altezza dell'immagine in modo che mantenga le proporzioni originali */
+}
